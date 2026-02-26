@@ -115,7 +115,7 @@ export default function App() {
     alt="Gitanshu Gautam"
     className="w-40 h-40 sm:w-52 sm:h-52 md:w-72 md:h-72 rounded-full object-cover shadow-xl border-4 border-blue-600"
   />
-</div>git status
+</div>
 
           </div>
         </section>
