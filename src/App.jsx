@@ -109,13 +109,14 @@ export default function App() {
             </div>
 
             {/* Profile Image */}
-            <div className="flex justify-center">
-              <img
-                src="/profile.jpg"
-                alt="Gitanshu Gautam"
-                className="w-48 h-48 sm:w-60 sm:h-60 md:w-72 md:h-72 rounded-full object-cover shadow-xl border-4 border-blue-600"
-              />
-            </div>
+          <div className="flex justify-center order-first md:order-last">
+  <img
+    src="/profile.jpg"
+    alt="Gitanshu Gautam"
+    className="w-40 h-40 sm:w-52 sm:h-52 md:w-72 md:h-72 rounded-full object-cover shadow-xl border-4 border-blue-600"
+  />
+</div>git status
+
           </div>
         </section>
 
